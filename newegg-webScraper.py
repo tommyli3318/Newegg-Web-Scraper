@@ -1,6 +1,7 @@
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 
+#builds the URL
 middleURL = input('Search for a product on newegg: ').replace(" ", "+")
 frontURL = 'https://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Order=BESTMATCH&Description='
 backURL = '&N=-1&isNodeId=1'
