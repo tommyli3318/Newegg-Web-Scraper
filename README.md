@@ -1,4 +1,6 @@
 # Newegg-Web-Scraper
-Input: takes in a search term (ex: gaming mouse) for newegg.com, a website for buying computer parts and accessories
-Output: prints a list of search results on to the console and relevant information (product name, price, and shipping cost) 
-Write: makes a csv file in the same folder with all the search results and records their relevant information
+Input: Takes in a search term (ex: gaming mouse) for newegg.com, a website for buying computer parts and accessories
+
+Output: Prints a list of search results and their relevant information (product name, price, and shipping cost) onto to the console
+
+Write: Writes all the search results found on newegg and their relevant information to a csv file 
